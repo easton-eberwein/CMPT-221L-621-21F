@@ -4,3 +4,4 @@ We talked about the steps that we could possibly take to deploy a website. I wan
 
 <!-- Answer Down Here -->
 
+I would use AWS to deploy my website. They offer a lot of static website benefits such as low cast, high levels of reliability, no server administration, and scalability to handle enterprise-level traffic. Traditional web hosting services can't keep up with an increase in website traffic and are therfore more difficult to scale and asjust website performance. AWS is highly flexible allowing users to select their programming language, web application programs, and operating system. In AWS you pay for only the services that you use. AWS makes sure the user manages and maintains their website without any hassle. AWS also offers services that won't slow down the performance of the website.
